@@ -1,4 +1,4 @@
-# Lista 01
+<details><summary><b>Lista 01</b></summary>
 
 - 01 - Execute o sqlite criando um banco de dados de nome lista1.sqlite.
     
@@ -204,9 +204,9 @@
     
     ![Untitled](images/lista_01/Untitled%209.png)
 
+</details>
 
----
-# Lista 02
+<details><summary><b>Lista 02</b></summary>
 
 - 01 - Altere o nome da tabela caixa para dinheiro.
     
@@ -376,3 +376,4 @@
 - 30 - Veja a estrutura da tabela NossosCDs
     
     ![Untitled](images/lista_02/Untitled%206.png)
+</details>
